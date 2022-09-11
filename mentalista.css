@@ -15,25 +15,25 @@ body {
   }
   
   .page-title {
+    font-size: 50px;
+    font-weight: 700;
     color: #ffffff;
-    margin: 0 0 5px;
+    margin-bottom: 20px;
   }
   
   .page-subtitle {
-    color: #ffffff;
-    margin-top: 16px;
+    font-size: 20px;
+    font-weight: 400;
+    color: darkblue;
+    margin-bottom: 20px;
+    font-weight: bold;
   }
   
   .page-logo {
     width: 200px;
   }
   
-  .alura-logo {
-    width: 40px;
-    position: absolute;
-    top: 10px;
-    right: 10px;
-  }
+
   
   @media (max-height: 500px) {
     body {
